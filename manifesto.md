@@ -5,7 +5,7 @@
 - Data is an asset, not a liability.
 - Many if not most of the phenomena that are the focus of inquiry in the social and behavioral sciences involve the small contributions of factors spanning multiple levels of spatial resolution and across multiple time frames.
 - The recruitment of large scale, racially, ethnically, economically, diverse samples is a huge challenge for many social and behavioral scientists.
-- Most current knowledge about human behavior comes from samples of societies that are WEIRD -- Western, Educated, Industrialized, Rich, and Developed [Henrich et al., 2010](http://dx.doi.org/10.1017%2FS0140525X0999152X).
+- Most current knowledge about human behavior comes from samples of societies that are WEIRD -- Western, Educated, Industrialized, Rich, and Developed ([Henrich et al., 2010](http://dx.doi.org/10.1017%2FS0140525X0999152X)).
 - Social and behavioral scientists collect data from human participants using increasingly diverse sources.
     + Wearable devices
     + Smartphones via research-specific app platforms (e.g., Apple's HealthKit)
@@ -20,9 +20,10 @@
 - Non-commercial research in the social and behavioral sciences faces challenges in the collection, management, cleaning, visualization, analysis, and sharing of large-scale data sources.
 - The requirement that non-commercial research follow strict governmentally-regulated research ethics guidelines constrains the extent to which data can be linked and shared.
 - Social and behavioral science data would be more valuable if data sets collected by different researchers could be readily shared, if the data sets were organized in ways that harmonized metadata, and if the data sets included variables that allowed linkage across levels of analysis.
-- Social and behavioral scientists are under increasing pressure from research funders to share data openly and from their peers to share materials, data, and specific analytical procedures more transparently.
-- Social and behavioral scientists need new ways to publish scholarly work via pre-publication review, but to document scholarly findings with DOI for openly published pre-prints.
-- We need a new model.
+- Social and behavioral scientists are under increasing pressure from research [funders](http://grants.nih.gov/grants/guide/notice-files/NOT-MH-15-012.html) to share data openly and from their [peers](http://dx.doi.org/10.1126%2Fscience.aac4716) to share materials, data, and specific analytical procedures more transparently.
+- Social and behavioral scientists need new ways to publish scholarly work via pre-publication review. The preprint model adopted in other fields (e.g., [ArXiv](http://arxiv.org/) and [bioRxiv](http://biorxiv.org/)) provide one approach.
+- Preprint servers do not solve the problem of sharing data, materials, and validating the reproducibility of results.
+- We need a new model, or really, a new integrated ecosystem.
 
 ## Components of the proposed Databservatory ecosystem
 
