@@ -37,8 +37,12 @@
 - Researchers can develop new behavioral protocols that take full advantage of the sensor arrays available on smart phones, laptop and desktop computers.
 - Researchers can "push" protocols to prospective participants.
 - Increases number and geographic diversity of potential participants.
-- Participants motivated by affiliation with a recognized not-for-profit academic institution.
-- Individual participants can manage who has access to their data (e.g., <https://www.datawallet.io/>)
+- Participants motivated by affiliation with a recognized not-for-profit and/or academic institution.
+- Individual participants can manage who has access to their data, so-called "microconsent" (e.g., <https://www.datawallet.io/>)
+- Data from app can be automatically shared with data repository.
+- Reduces vertical siloing of wearable and other app-based research platforms.
+- Integrates with existing web-based research services (MTurk, Qualtrix, SurveyMonkey)
+- Platform can be developed within an institution to build on institutional-level ties, but can be easily adapted for use in other institutional settings.
 
 ### Web-based data repository
 
@@ -55,25 +59,39 @@
 
 - Builds upon open, emerging standards for reproducible and transparent research.
 - Web-based digital notebook, literate programming environments such as Jupyter notebooks, RStudio/RMarkdown
+- Builds upon prior work in digital lab notebooks.
 - Bring analyses to data, not data to analysts. Reduces bandwidth problems in data transfer.
 - Enables smart linking of data sets across levels of analysis
     +  Link geo-coded data with that collected in laboratories.
     +  Respect participants' permission for sharing potentially identifiable data (see Databrary access model, Openhumans.org, Personalgenomes.org)
 - Testbed for new data mining, analysis, visualization algorithms.
 - Open APIs.
+- Smart data linking. If data being browsed have geo-identifiers, system suggests lists of geo-coded data available for the regions indicated. If data have temporal and geo-codes, system suggests list of relevant data sets to link, e.g., weather, crime, current events, etc.
 
-### Next generation publication frameworks
+### Next generation publication framework
 
 - Preprint server with DOIs.
-    + Preprint servers ArXiv, bioRxiv an emerging way to share, seek pre-review of scholarly manuscripts in some fields. 
+    + Preprint servers ArXiv, bioRxiv an emerging way to share, seek pre-review of scholarly manuscripts in some fields.
     + Rare in social and behavioral science.
     + Preprints automatically linked to volume with underlying data and materials.
-- "Psychological Evidence", a new journal.
+    + Social science preprint server may be a project that the Center for Open Sciences is working on.
+- "Psychological Evidence", a new proposed "data" journal.
     + The simultaneous publication of commentary, data, materials and displays, analysis/simulation code.
+    + Builds upon/extends prior work on executable documents.
     + The capacity of pre/post publication reviewers and readers to run/re-run an authors' analyses on data using Databservatory servers or cloud-based VMs spun up for this purpose.
     + Capacity to spawn commentary threads based on pre/publication comments, including the re-running of analyses or models based on parameter changes.
     + Full version control over manuscript text, data, analysis code.
-    + No anonymous comments in pre/post review. 
+    + No anonymous comments in pre/post review.
     + Stack Exchange-like up/down voting of articles, data sets, analyses, visualizations, and commentary.
 - Next generation journal platform infrastructure could be adapted for other fields.
 
+#### Similar initiatives
+
+- Lots of competition/innovation in this space.
+- See [database of web-based scholarly tools](http://bit.ly/innoscholcomm-list) from [101 Innovations in Scholarly Communication](https://innoscholcomm.silk.co/).
+- Web-based LaTex authoring services
+    + [ShareLaTex](https://www.sharelatex.com/)
+    + [Overleaf](https://www.overleaf.com/)
+- Similar to authoring platforms and services like new work by the Collaborative Knowledge Foundation (http://coko.foundation/), PubSweet, Substance, Stencila, etc.; [FidusWriter](http://www.fiduswriter.org/)
+- [sciforge](http://www.sciforge-project.org/) for citation of software.
+- [GigaScience](http://gigascience.biomedcentral.com/), open data but not executable.
